@@ -1,0 +1,13 @@
+{
+  "asset_id": "macro.gdp.nominal.eurozone",
+  "source": "World Bank WDI",
+  "region_name": "Euro area",
+  "region_code": "EMU",
+  "region_wb2_code": "XC",
+  "indicator_code": "NY.GDP.MKTP.CD",
+  "start_year": 1960,
+  "frequency": "A",
+  "unit": "USD",
+  "data_kind": "nominal_gdp_current_usd",
+  "requires_api_key": false
+}

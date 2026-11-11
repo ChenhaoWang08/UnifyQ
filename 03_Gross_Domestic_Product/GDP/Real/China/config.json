@@ -1,0 +1,14 @@
+
+{
+  "asset_id": "macro.gdp.real.china",
+  "source": "World Bank WDI",
+  "country_iso3": "CHN",
+  "indicator_code": "NY.GDP.MKTP.KD",
+  "indicator_name": "GDP (constant 2015 US$)",
+  "base_year": 2015,
+  "start_year": 1960,
+  "frequency": "A",
+  "unit": "constant_2015_USD",
+  "data_kind": "real_gdp_constant_2015_usd",
+  "requires_api_key": false
+}

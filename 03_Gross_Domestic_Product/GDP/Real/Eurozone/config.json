@@ -1,0 +1,16 @@
+
+{
+  "asset_id": "macro.gdp.real.eurozone",
+  "source": "World Bank WDI",
+  "region_name": "Euro area",
+  "region_code": "EMU",
+  "region_wb2_code": "XC",
+  "indicator_code": "NY.GDP.MKTP.KD",
+  "indicator_name": "GDP (constant 2015 US$)",
+  "base_year": 2015,
+  "start_year": 1960,
+  "frequency": "A",
+  "unit": "constant_2015_USD",
+  "aggregation_type": "regional_aggregate",
+  "requires_api_key": false
+}

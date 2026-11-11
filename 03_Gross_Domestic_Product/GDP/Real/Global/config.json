@@ -1,0 +1,16 @@
+
+{
+  "asset_id": "macro.gdp.real.global",
+  "source": "World Bank WDI",
+  "region_name": "World",
+  "region_code": "WLD",
+  "region_wb2_code": "1W",
+  "indicator_code": "NY.GDP.MKTP.KD",
+  "indicator_name": "GDP (constant 2015 US$)",
+  "base_year": 2015,
+  "start_year": 1960,
+  "frequency": "A",
+  "unit": "constant_2015_USD",
+  "aggregation_type": "world_aggregate",
+  "requires_api_key": false
+}

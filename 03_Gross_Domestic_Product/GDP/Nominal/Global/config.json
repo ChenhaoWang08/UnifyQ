@@ -1,0 +1,14 @@
+
+{
+  "asset_id": "macro.gdp.nominal.global",
+  "source": "World Bank WDI",
+  "region_name": "World",
+  "region_code": "WLD",
+  "region_wb2_code": "1W",
+  "indicator_code": "NY.GDP.MKTP.CD",
+  "start_year": 1960,
+  "frequency": "A",
+  "unit": "USD",
+  "aggregation_type": "world_aggregate",
+  "requires_api_key": false
+}
