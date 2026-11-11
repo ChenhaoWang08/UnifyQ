@@ -1,0 +1,17 @@
+
+{
+  "asset_id": "macro.gdp.global_economic_share",
+  "source_indicator": "NY.GDP.MKTP.CD",
+  "expected_source": "World Bank WDI",
+  "input_unit": "USD",
+  "input_frequency": "A",
+  "output_unit": "percent",
+  "start_year": 1960,
+  "decimal_places": 6,
+  "input_files": {
+    "CHN": "china",
+    "USA": "us",
+    "EMU": "eurozone",
+    "WLD": "global"
+  }
+}
